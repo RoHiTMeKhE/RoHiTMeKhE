@@ -1,4 +1,3 @@
-[![MasterHead](https://media4.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif?cid=ecf05e47ultux8cm6qpboax9ocydjqtzwg2ef21vp1d6rmec&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
 
 <h1 align="center">Hi 👋, I'm Rohit Mekhe</h1>
 <h3 align="middle">A passionate Software Engineer from India</h3>
